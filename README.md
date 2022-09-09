@@ -1,7 +1,7 @@
 # BlazorWebAssemblyApp
 Blazor WebAssembly App based on .Net 6
 
-The goal is have an understanding and hands on experience of Frontend development concepts on Blazor
+The goal is to have an understanding and hands on experience of Frontend development concepts on Blazor
 - Reusable Components
 - Component Lifecycle
 - Data Binding
